@@ -6,7 +6,6 @@ I am Mouad Mahfoud from Rabat, Morocco Full stack web devloper.
 - In my repos you'll find projects created using :
 ## Tech Stack :computer:
 
-### MERN Stack:
 <table>
 <tbody>
 <tr>
@@ -28,16 +27,8 @@ I am Mouad Mahfoud from Rabat, Morocco Full stack web devloper.
 <img src="https://banner2.cleanpng.com/20180511/zie/kisspng-redux-react-javascript-vue-js-single-page-applicat-5af5cde3d3a5e8.2671715915260584678669.jpg" alt="redux" width="80">
 </td>
 <td align="center" width="20%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="NextJs" width="80">
-</td>
-<td align="center" width="20%">
-<img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="React Native" width="80">
-</td>
-<td align="center" width="20%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" 		width="80">
  </td>
-</tr>
-<tr>
 <td align="center" width="20%">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="80">
 </td>
@@ -48,32 +39,17 @@ I am Mouad Mahfoud from Rabat, Morocco Full stack web devloper.
 </tbody>
 </table>
 
-### LAMP Stack:
 <table>
 <tbody>
 <tr>
-<td align="center" width="20%">
-	<img src="https://logo-marque.com/wp-content/uploads/2020/09/Linux-Embleme.png" alt="Linux" width="80">
-</td>
-<td align="center" width="20%">
-	<img src="https://p7.hiclipart.com/preview/130/892/9/apache-tomcat-apache-http-server-web-server-java-servlet-javaserver-pages-others-thumbnail.jpg" alt="Apache" width="80">
-</td>
 <td align="center" width="20%">
 	 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="Mysql" width="80">
  </td>
 <td align="center" width="20%">
 	 <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="80">
  </td>
-</tr>
-<tr>
 <td align="center" width="20%">
-	 <img src="https://symfony.com/logos/symfony_black_03.png" alt="symfony" width="80">
- </td>
- <td align="center" width="20%">
-	 <img src="https://www.drupal.org/files/Wordmark2_blue_RGB%281%29.png" alt="Drupal" width="80">
- </td>
-<td align="center" width="20%">
- <img src="https://p7.hiclipart.com/preview/719/649/195/laravel-software-framework-php-web-framework-model-view-controller-framework.jpg" alt="Laravel" width="80">
+ <img src="https://symfony.com/logos/symfony_black_03.png" alt="symfony" width="80">
  </td>
 </tr>
 </tbody>
