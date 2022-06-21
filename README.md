@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Morocco</h3>
 
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently learning **NestJS
 
 - 📫 How to reach me **devmahfoud@gmail.com**
 
